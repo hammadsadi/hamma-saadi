@@ -112,7 +112,7 @@ const Portfolio = () => {
 
       <div className="relative group">
         <div className="w-full h-full absolute -inset-1 bg-gradient-to-r from-[#1BAA80] to-[#004D5C] rounded-lg blur opacity-25 group-hover:opacity-100 transition duration-300"></div>
-        <div className="relative p-3 w-full max-w-[600px] bg-white bg-opacity-10 backdrop-blur-lg rounded-lg">
+        <div className="relative p-3 w-full max-w-[600px] bg-white bg-opacity-10 backdrop-blur-lg rounded-lg overflow-hidden">
           <div className="p-5 bg-gray-800 rounded-lg">
             <div className=" w-full h-80">
               <img
