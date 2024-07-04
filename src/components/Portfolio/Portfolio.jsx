@@ -210,6 +210,7 @@ const Portfolio = () => {
               </a> */}
               <a
                 href={projects[currentProject].links.liveLink}
+                target="_blank"
                 className="flex items-center gap-2 bg-[#1baa80] py-1 px-2 rounded-sm"
               >
                 {" "}
@@ -217,6 +218,7 @@ const Portfolio = () => {
               </a>
               <a
                 href={projects[currentProject].links.githubClientSide}
+                target="_blank"
                 className="flex items-center gap-2 bg-[#1baa80] py-1 px-2 rounded-sm"
               >
                 {" "}
@@ -224,6 +226,7 @@ const Portfolio = () => {
               </a>
               <a
                 href={projects[currentProject].links.githubServerSide}
+                target="_blank"
                 className="flex items-center gap-2 bg-[#1baa80] py-1 px-2 rounded-sm"
               >
                 {" "}
