@@ -58,9 +58,7 @@ const EducationalBackground = () => {
                   of the Philosophy department at Sunamganj Government College
                   has been an enriching experience, allowing me to explore
                   diverse philosophical perspectives and develop critical
-                  thinking skills. I am passionate about expanding my knowledge
-                  in this field and look forward to applying the insights gained
-                  to contribute meaningfully to society.
+                  thinking skills.
                 </p>
               </div>
             </div>
