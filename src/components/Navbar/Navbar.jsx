@@ -15,7 +15,7 @@ const Navbar = () => {
   };
   return (
     <div className="bg-gray-800">
-      <div className="container flex justify-between items-center mx-auto text-gray-300 text-sm md:text-base h-24">
+      <div className="container px-2 md:px-0 flex justify-between items-center mx-auto text-gray-300 text-sm md:text-base h-24">
         <a className="text-xl md:text-3xl font-bold">Hammad Sadi</a>
         {/* Large Device Menu */}
         <ul className="hidden md:flex gap-12 z-10">

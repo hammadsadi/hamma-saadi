@@ -42,10 +42,13 @@ const About = () => {
       <div className="p-6">
         <h2 className="text-white font-bold mb-4">Skills</h2>
         <p className="text-white mb-4">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ad ex nulla
-          itaque. Veniam repellat repellendus doloribus nisi dolorem ea
-          excepturi, sequi esse, quod, delectus ut architecto consequuntur neque
-          earum ipsam!
+          I am a proficient MERN stack developer with a solid foundation in
+          MongoDB, Express.js, React, and Node.js. With hands-on experience in
+          building Diagnostic center Management application, Social media
+          Application and Blog Application , I excel in Next JS and database
+          management, etc. My objective is to innovate within web development,
+          creating scalable solutions that improve user experience, streamline
+          processes.
         </p>
         <div className="md:flex flex-wrap gap-4 text-4xl justify-center hidden">
           <SiMongodb className="text-[#1BAA80]" />
