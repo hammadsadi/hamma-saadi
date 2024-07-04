@@ -48,7 +48,18 @@ const Hero = () => {
           </a>
         </div>
       </div>
-      <img src={profileImage} className="w-[300px] md:w-[500px]" alt="" />
+      {/* <div
+        className="w-[250px] md:w-[300px] border-4 border-[#1BAA80] rotate-12
+"
+      >
+        <img src={profileImage} className="p-2 -rotate-12" alt="" />
+      </div> */}
+      <div
+        className="blb-image border-4 border-[#1BAA80]
+"
+      >
+        {/* <img src={profileImage} className="p-2 -rotate-12" alt="" /> */}
+      </div>
     </div>
   );
 };

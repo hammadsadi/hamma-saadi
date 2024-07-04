@@ -6,7 +6,6 @@ import { RiTailwindCssFill } from "react-icons/ri";
 import { BsBootstrapFill } from "react-icons/bs";
 import { SiNextdotjs } from "react-icons/si";
 import { IoLogoFirebase } from "react-icons/io5";
-import { FaGithub } from "react-icons/fa";
 import { FaGitAlt } from "react-icons/fa";
 
 import aboutComputer from "../../assets/images/about_computer.jpg";
