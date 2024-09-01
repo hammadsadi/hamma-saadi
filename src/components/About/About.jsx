@@ -66,10 +66,11 @@ const About = () => {
       <div className="p-6">
         <h2 className="text-white font-bold mb-4">Frontend Experience</h2>
         <p className="text-white mb-4">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ad ex nulla
-          itaque. Veniam repellat repellendus doloribus nisi dolorem ea
-          excepturi, sequi esse, quod, delectus ut architecto consequuntur neque
-          earum ipsam!
+          Experienced Frontend Developer with expertise in React.js, Tailwind
+          CSS, Bootstrap, and Firebase. Skilled in building responsive and
+          dynamic user interfaces, utilizing modern CSS frameworks for
+          streamlined design, and integrating Firebase for real-time data
+          handling and authentication
         </p>
         <div className="md:flex flex-wrap gap-4 text-4xl justify-center hidden">
           <FaReact className="text-blue-500" />
@@ -105,10 +106,11 @@ const About = () => {
       <div className="p-6">
         <h2 className="text-white font-bold mb-4">FullStack Experience</h2>
         <p className="text-white mb-4">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ad ex nulla
-          itaque. Veniam repellat repellendus doloribus nisi dolorem ea
-          excepturi, sequi esse, quod, delectus ut architecto consequuntur neque
-          earum ipsam!
+          Full-Stack Developer proficient in React.js, Node.js, Express.js,
+          MongoDB, and Next.js. Adept at building scalable web applications,
+          crafting seamless frontend experiences, and implementing robust
+          backend solutions with efficient data management using the MERN stack
+          and Next.js for server-side rendering
         </p>
         <div className="md:flex flex-wrap gap-4 text-4xl justify-center hidden">
           <SiMongodb className="text-[#1BAA80]" />
